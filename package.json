@@ -1,0 +1,27 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namcaophuong/fullstack_backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "namcao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namcaophuong/fullstack_backend-zero/issues"
+  },
+  "homepage": "https://github.com/namcaophuong/fullstack_backend-zero#readme",
+  "description": "",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
